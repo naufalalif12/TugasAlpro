@@ -1,1 +1,0 @@
-worker: ProgramToko.py
